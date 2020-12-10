@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FalconLaunch</string>
+    <string name="network_error_message">Check internet connection!!</string>
+    <string name="falcon_9_launches">Falcon 9 Launches</string>
+    <string name="success">Mission Success</string>
+    <string name="failed">Mission Failed</string>
+</resources>
